@@ -1,14 +1,14 @@
 Hi 👋 My name is Duncan Nkhata
 ==============================
 
-Full-Stack Developer
+Softwre Engineer
 -----------------
 
-I have experience in system design and development using the Frappe Framework. Able to effectively self-manage during independent projects and collaborate as part of a productive team.
+All things Frappe!
 
 * 🌍  I'm based in Lusaka, Zambia
 * ✉️  You can contact me at [duncannkhata@gmail.com](mailto:duncannkhata@gmail.com)
-* 🧠  Currently learning ReactJS
+* 🧠  Currently learning VueJS
 * 🤝  I'm open to collaborating on Frappe & ERPNext projects.
 
 ### Skills
