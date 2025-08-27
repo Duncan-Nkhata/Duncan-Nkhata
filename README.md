@@ -4,12 +4,12 @@ Hi 👋 My name is Duncan Nkhata
 Softwre Engineer
 -----------------
 
-All things Frappe!
+Hello Friend!
 
 * 🌍  I'm based in Lusaka, Zambia
 * ✉️  You can contact me at [duncannkhata@gmail.com](mailto:duncannkhata@gmail.com)
-* 🧠  Currently learning VueJS
-* 🤝  I'm open to collaborating on Frappe & ERPNext projects.
+* 🧠  Currently learning React
+* 🤝  Open to collaboration!
 
 ### Skills
 
