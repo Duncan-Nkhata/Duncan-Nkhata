@@ -8,8 +8,8 @@ Hello Friend!
 
 * 🌍  I'm based in Lusaka, Zambia
 * ✉️  You can contact me at [duncannkhata@gmail.com](mailto:duncannkhata@gmail.com)
-* 🧠  Currently learning React
-* 🤝  Open to collaboration!
+* 🚀  Frappe to the moon!
+* ⚡  All Things Data
 
 ### Skills
 
