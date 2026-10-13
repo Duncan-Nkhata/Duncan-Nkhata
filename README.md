@@ -1,7 +1,7 @@
 Hi 👋 My name is Duncan Nkhata
 ==============================
 
-Softwre Engineer
+Software Engineer
 -----------------
 
 Hello Friend!
